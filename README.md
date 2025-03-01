@@ -1,8 +1,8 @@
 # DANTIELLO MD Whatsapp Bot🤖
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yourusername/your-repo/pulls)
-[![Stars](https://img.shields.io/github/stars/yourusername/your-repo?style=social)](https://github.com/yourusername/your-repo/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Dantech799/your-repo/pulls)
+[![Stars](https://img.shields.io/github/stars/Dantech799/your-repo?style=social)](https://github.com/Dantech799/your-repo/stargazers)
 
 A powerful and customizable WhatsApp bot built with [Node.js](https://nodejs.org/) and powered by [Baileys](https://github.com/adiwajshing/Baileys) or [Twilio](https://www.twilio.com/). This bot can handle messages, automate tasks, and integrate with APIs to provide a seamless experience.
 
