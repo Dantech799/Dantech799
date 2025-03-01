@@ -42,11 +42,11 @@
 #       with:
 #         cli_config_credentials_token: ${{ secrets.TF_API_TOKEN }}
 
-name: 'Terraform'
+name: 'Dantech798'
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "dantiello md" ]
   pull_request:
 
 permissions:
