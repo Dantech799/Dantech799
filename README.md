@@ -1,4 +1,4 @@
-# WhatsApp Bot 🤖
+# DANTIELLO MD Whatsapp Bot🤖
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yourusername/your-repo/pulls)
@@ -11,7 +11,7 @@ A powerful and customizable WhatsApp bot built with [Node.js](https://nodejs.org
 ## Features ✨
 
 - **Automated Replies**: Respond to messages with predefined or dynamic content.
-- **Group Management**: Kick, add, or promote users in groups.
+- **Group Management**: Kick, add,close ,open or promote users in groups.
 - **API Integration**: Fetch data from external APIs (e.g., weather, news, or jokes).
 - **Custom Commands**: Add your own commands for specific tasks.
 - **Media Support**: Send and receive images, videos, and documents.
@@ -67,7 +67,7 @@ You can customize the bot by editing the `config.js` file:
 ```javascript
 module.exports = {
   prefix: "/", // Command prefix
-  adminNumber: "1234567890", // Admin WhatsApp number
+  adminNumber: "0791951098", // Admin WhatsApp number
   defaultLanguage: "en", // Default language
 };
 ```
@@ -92,7 +92,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support 💬
 
-If you have any questions or need help, feel free to open an issue or contact me at [your.email@example.com](mailto:your.email@example.com).
+If you have any questions or need help, feel free to open an issue or contact me at [0791951098](mailto:your.dandantez799@gmail.com).
 
 ---
 
@@ -110,7 +110,9 @@ If you have any questions or need help, feel free to open an issue or contact me
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername).  
+Made with ❤️ by [DANTIELLO TECH](https://github.com/yourusername).  
 ⭐️ Star this repo if you find it useful!
+
+BIENVENUE 😊 
 
 ---
